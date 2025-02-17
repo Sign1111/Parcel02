@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYy9vEHrgx02q0ap++pdHpgAAAAACAAAAAAADZgAAwAAAABAAAADJ8JO52zgglE5vlwj+5dSwAAAAAASAAACgAAAAEAAAAN6TjH7gUn6IX6xm4O4XoaUoAAAA1YG7hEqOm5aoOe5Vq1o/mBP68pdby5XdD5cI6frXmic3djk2J4nDNxQAAAAtGXysWu6zql9O+h4ukc1E85eoWw==</EncryptedPassword>
+    <History>True|2025-02-14T15:20:06.2789794Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=IITA-MISTRNG%3bDatabase=master%3bTrusted_Connection=True%3bMultipleActiveResultSets=true%3bTrustServerCertificate=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
